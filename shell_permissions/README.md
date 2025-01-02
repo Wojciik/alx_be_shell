@@ -1,1 +1,1 @@
-This repository contains a script to show who is the current user
+This repository contains a script that creates an empty file called hello
