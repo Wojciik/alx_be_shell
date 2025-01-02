@@ -1,1 +1,1 @@
-This repository contains a script that creates an empty file called hello
+This repository contains a script that changes permissions to the hello file
