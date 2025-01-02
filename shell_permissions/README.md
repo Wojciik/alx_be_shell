@@ -1,1 +1,1 @@
-This repository contains a script for changing the current user to betty
+This repository contains a script to show who is the current user
